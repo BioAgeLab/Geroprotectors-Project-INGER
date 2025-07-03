@@ -1,0 +1,406 @@
+Name,Geroprotectors,Index,0/1,Subset,Etiqueta
+Dronabinol,0,355,0.0,train,
+MEPAZINE ACETATE,0,234,0.0,train,
+1400W,1,3,1.0,train,
+Amn082,1,18,1.0,train,
+Mianserin,1,131,1.0,train,
+Loratadine,1,118,1.0,train,
+Benzedrone,0,358,0.0,train,
+DAPH,1,63,1.0,train,
+PERGOLIDE,0,318,0.0,train,
+VERALIPRIDE,0,211,0.0,train,
+lanatoside C,0,382,0.0,train,
+Gallic Acid,1,93,1.0,train,
+FENCLOFENAC,0,331,0.0,train,
+Kenpaullone,1,108,1.0,train,
+Ropivacaine,0,396,0.0,train,
+BUTAMBEN,0,223,0.0,train,
+Tannic Acid,1,181,1.0,train,
+TEMAFLOXACIN HYDROCHLORIDE,0,247,0.0,train,
+corynoxine B,0,378,0.0,train,
+nemorubicin,0,394,0.0,train,
+PHENYLPROPANOLAMINE,0,219,0.0,train,
+Doxazosin Mesylate,1,75,1.0,train,
+Kinetin,1,110,1.0,train,
+L-Theanine,1,113,1.0,train,
+Acarbose,1,16,1.0,train,
+DHhP-6,1,66,1.0,train,
+KETOCONAZOLE,0,271,0.0,train,
+2-Deoxy-D-Glucose,1,7,1.0,train,
+Amoxapine,1,19,1.0,train,
+Sp600125,1,176,1.0,train,
+Phytonadione,0,390,0.0,train,
+"2,4-Dinitrophenyl thiocyanate",0,353,0.0,train,
+PRENYLAMINE,0,299,0.0,train,
+GREPAFLOXACIN HYDROCHLORIDE,0,298,0.0,train,
+DEXFENFLURAMINE HYDROCHLORIDE,0,296,0.0,train,
+Dibutyl Phthalate,0,391,0.0,train,
+CHLORPHENTERMINE HYDROCHLORIDE,0,301,0.0,train,
+D-Pinitol,1,60,1.0,train,
+Enalapril,1,79,1.0,train,
+PROBUCOL,0,304,0.0,train,
+SUPROFEN,0,287,0.0,train,
+GENTIAN VIOLET,0,338,0.0,train,
+Phosphonoformic Acid,1,158,1.0,train,
+Ketanserin Tartrate,1,109,1.0,train,
+Acetaminophen,1,17,1.0,train,
+Scutebarbatine A,0,376,0.0,train,
+Baicalein,1,24,1.0,train,
+BENDAZAC,0,268,0.0,train,
+Octoclothepin Maleate,1,148,1.0,train,
+TOLCAPONE,0,248,0.0,train,
+Phenformin,1,157,1.0,train,
+Pyrrolidine Dithiocarbamate,1,165,1.0,train,
+METHOXYFLURANE,0,245,0.0,train,
+XENAZOIC ACID,0,277,0.0,train,
+Loxapine Succinate,1,119,1.0,train,
+Valproic Acid,1,196,1.0,train,
+VINYL CHLORIDE,0,220,0.0,train,
+ZIMELDINE HYDROCHLORIDE,0,227,0.0,train,
+Oxoline,1,152,1.0,train,
+THIORIDAZINE HYDROCHLORIDE,0,311,0.0,train,
+Caffeic Acid,1,36,1.0,train,
+Naftopidil Dihydrochloride,1,139,1.0,train,
+LORCASERIN,0,325,0.0,train,
+Niravoline,0,354,0.0,train,
+Vincristine Sulfate,1,198,1.0,train,
+CLIOQUINOL,0,228,0.0,train,
+D-Glucosamine,1,59,1.0,train,
+Kn-93,1,111,1.0,train,
+Scopoletin,0,357,0.0,train,
+Sodium Butyrate,1,175,1.0,train,
+2-(2-Hydroxyphenyl)-Benzoxazole,1,6,1.0,train,
+SULFATHIAZOLE,0,291,0.0,train,
+IBUFENAC,0,278,0.0,train,
+Oxaloacetic Acid,1,150,1.0,train,
+"3,3-Diethyl-2-Pyrrolidinone",1,10,1.0,train,
+Tyrphostin Ag 490,1,194,1.0,train,
+Ibuprofen,1,103,1.0,train,
+Erbstatin Analogue,1,81,1.0,train,
+PHENYLPROPANOLAMINE HYDROCHLORIDE,0,208,0.0,train,
+XIMELAGATRAN,0,281,0.0,train,
+Lupiwighteone,0,380,0.0,train,
+PERHEXILINE MALEATE,0,210,0.0,train,
+OXYPHENISATINE,0,261,0.0,train,
+DILEVALOL HYDROCHLORIDE,0,258,0.0,train,
+Quinidine Sulfate,1,167,1.0,train,
+Fenofibrate,1,89,1.0,train,
+Tyrphostin Ag 1478,1,193,1.0,train,
+Propionylpromazine Hydrochloride,1,163,1.0,train,
+Nortriptyline Hydrochloride,1,147,1.0,train,
+SIBUTRAMINE,0,231,0.0,train,
+Fumarate,1,92,1.0,train,
+Dichloroacetate,1,69,1.0,train,
+Maltose,1,123,1.0,train,
+Glaucarubinone,1,96,1.0,train,
+Nicotinamide Adenine Dinucleotide,1,143,1.0,train,
+CLOBUTINOL,0,307,0.0,train,
+Glutathione,1,97,1.0,train,
+ALMITRINE,0,233,0.0,train,
+Dibromoacetic Acid,1,68,1.0,train,
+Bacitracin,1,23,1.0,train,
+Caffeine,1,37,1.0,train,
+Nitrendipine,1,144,1.0,train,
+Malate,1,122,1.0,train,
+Vitamin D3,1,202,1.0,train,
+Thioflavin T,1,182,1.0,train,
+Diazaborine,1,67,1.0,train,
+Tirapazamine,0,399,0.0,train,
+NIALAMIDE,0,282,0.0,train,
+CARISOPRODOL,0,222,0.0,train,
+TRICHLOROETHANE,0,321,0.0,train,
+BUTAMBEN PICRATE,0,229,0.0,train,
+Metergoline,1,125,1.0,train,
+Nordihydroguaiaretic Acid,1,146,1.0,train,
+BENZIODARONE,0,238,0.0,train,
+Euk-8,1,86,1.0,train,
+INDOPROFEN,0,340,0.0,train,
+CHLOROFORM,0,323,0.0,train,
+PHENOLPHTHALEIN,0,341,0.0,train,
+Wortmannin,1,203,1.0,train,
+PEMOLINE,0,262,0.0,train,
+Ricinine,0,361,0.0,train,
+Thioridazine Hydrochloride,1,183,1.0,train,
+coagulin-L,0,375,0.0,train,
+TRIACETYLDIPHENOLISATIN,0,286,0.0,train,
+BUCETIN,0,289,0.0,train,
+SULFACARBAMIDE,0,285,0.0,train,
+Methylergonovine Maleate,1,129,1.0,train,
+Carbenicillin,1,38,1.0,train,
+"3,4-Dichloroisocoumarin",1,11,1.0,train,
+Scopolamine,0,356,0.0,train,
+Trehalose,1,185,1.0,train,
+MINAPRINE HYDROCHLORIDE,0,225,0.0,train,
+"L-744,832",1,112,1.0,train,
+Staurosporine,1,179,1.0,train,
+Dibutyl Phthalate,0,383,0.0,train,
+MEDIFOXAMINE,0,272,0.0,train,
+Taraxerone,0,346,0.0,train,
+Lonidamine,1,117,1.0,train,
+"2-morpholino-4H-pyrimido[2,1-a]isoquinolin-4-one",0,373,0.0,train,
+PHENOXYPROPAZINE,0,280,0.0,train,
+Mycophenolic Acid,0,389,0.0,train,
+IOXITALAMIC ACID,0,290,0.0,train,
+Sildenafil,0,367,0.0,train,
+Psora-4,1,164,1.0,train,
+PIPAMAZINE,0,284,0.0,train,
+N-(2-[4-(4-Chlorophenyl)Piperazin-1-Yl]Ethyl)-3-Methoxybenzamide,1,136,1.0,train,
+Paraquat,1,154,1.0,train,
+Vinpocetine,1,199,1.0,train,
+Valpromide,1,197,1.0,train,
+Meloxicam,0,397,0.0,train,
+10-Hydroxy-2-Decenoic Acid,1,2,1.0,train,
+?-Ketoglutarate,1,204,1.0,train,
+Lfm-A13,1,115,1.0,train,
+BENZARONE,0,237,0.0,train,
+NITREFAZOLE,0,274,0.0,train,
+Berberine,1,26,1.0,train,
+"Ly-367,265",1,120,1.0,train,
+ROSIGLITAZONE MALEATE,0,310,0.0,train,
+LEVAMISOLE,0,224,0.0,train,
+SITAXENTAN SODIUM,0,246,0.0,train,
+INGENOL MEBUTATE,0,329,0.0,train,
+Formaldehyde,0,366,0.0,train,
+Nitrilotriacetic acid,0,347,0.0,train,
+Methionine Sulfoximine,1,127,1.0,train,
+Dimethyl Sulfoxide,1,74,1.0,train,
+PRONETALOL,0,326,0.0,train,
+Brl 15572,1,29,1.0,train,
+Ethosuximide,1,83,1.0,train,
+METHAPYRILENE HYDROCHLORIDE,0,334,0.0,train,
+Kanamycin,1,107,1.0,train,
+Lupalbigenin,0,377,0.0,train,
+2-Mercaptopteridin-4-ol,0,379,0.0,train,
+Morphine,1,133,1.0,train,
+OXYPHENISATIN ACETATE,0,244,0.0,train,
+Trametinib,1,184,1.0,train,
+CLOFOREX,0,294,0.0,train,
+Chicoric Acid,1,44,1.0,train,
+Ozone,0,392,0.0,train,
+Deprenyl,1,65,1.0,train,
+Euk-134,1,85,1.0,train,
+MEBANAZINE,0,242,0.0,train,
+Trequinsin Hydrochloride,1,186,1.0,train,
+Pioglitazone,1,159,1.0,train,
+4-Phenyl-3-Furoxancarbonitrile,1,12,1.0,train,
+CaEDTA,1,35,1.0,train,
+Bezafibrate,1,28,1.0,train,
+Rifampicin,1,170,1.0,train,
+Nicardipine Hydrochloride,1,142,1.0,train,
+CHLORMADINONE ACETATE,0,322,0.0,train,
+SITAXENTAN,0,275,0.0,train,
+VALDECOXIB,0,221,0.0,train,
+Ggti-298,1,95,1.0,train,
+Clofibrate,1,51,1.0,train,
+ISAXONINE PHOSPHATE,0,240,0.0,train,
+CISAPRIDE,0,302,0.0,train,
+Protodioscin,0,386,0.0,train,
+Srt1720,1,178,1.0,train,
+Carnosine,1,41,1.0,train,
+THIORIDAZINE,0,314,0.0,train,
+BUFLOMEDIL,0,206,0.0,train,
+CLOMETACIN,0,254,0.0,train,
+URETHANE,0,335,0.0,train,
+17-A-Estradiol,1,4,1.0,train,
+FENCLOZIC ACID,0,256,0.0,train,
+PMMA,0,362,0.0,train,
+Guanfacine Hydrochloride,1,100,1.0,train,
+TRIAZOLAM,0,226,0.0,train,
+"Tetrabenzo[5,7]fulvalene",0,350,0.0,train,
+DIPYRONE,0,213,0.0,train,
+Rosmarinic Acid,1,171,1.0,train,
+Glycerol,1,98,1.0,train,
+CERIVASTATIN,0,292,0.0,train,
+PIFOXIME,0,215,0.0,train,
+Dafadine-A,1,61,1.0,train,
+Chromium Picolinate,1,47,1.0,train,
+Buformin,1,32,1.0,train,
+ALPIDEM,0,267,0.0,train,
+Vitamin B3,1,200,1.0,train,
+Pentobarbital,0,360,0.0,train,
+Beta-Estradiol,1,27,1.0,train,
+PROPOXYPHENE HYDROCHLORIDE,0,316,0.0,train,
+MINAPRINE,0,230,0.0,train,
+NOVOBIOCIN SODIUM,0,260,0.0,train,
+CERIVASTATIN SODIUM,0,288,0.0,train,
+Promethazine Hydrochloride,1,162,1.0,train,
+Mitonafide,0,384,0.0,train,
+N-Nitrosodimethylamine,1,138,1.0,train,
+Danazol,1,62,1.0,train,
+Myxothiazol,1,135,1.0,train,
+Methiothepin,1,128,1.0,train,
+2-Mercaptoethanol,1,8,1.0,train,
+Demeclocycline,1,64,1.0,train,
+TERFENADINE,0,300,0.0,train,
+4'-O-Methyl Epicatechin,1,14,1.0,train,
+Pergolide Methanesulfonate,1,156,1.0,train,
+Carbonylcyanide-P-Trifluoromethoxyphenylhydrazone,1,40,1.0,train,
+tetrachlorobenzoquinone,0,371,0.0,train,
+TETRAMETHRIN,0,327,0.0,train,
+PIPERAZINE,0,216,0.0,train,
+PHENACETIN,0,279,0.0,train,
+Fulvalene,0,349,0.0,train,
+ALATROFLOXACIN MESYLATE,0,236,0.0,train,
+DIAMTHAZOLE DIHYDROCHLORIDE,0,207,0.0,train,
+DIHYDROSTREPTOMYCIN SULFATE,0,212,0.0,train,
+FENFLURAMINE HYDROCHLORIDE,0,295,0.0,train,
+gardenin B,0,369,0.0,train,
+ULIPRISTAL ACETATE,0,251,0.0,train,
+Bosentan,0,395,0.0,train,
+spautin-1,0,370,0.0,train,
+PERGOLIDE MESYLATE,0,303,0.0,train,
+CYCLOFENIL,0,269,0.0,train,
+Vitamin B5,1,201,1.0,train,
+Pp2,1,161,1.0,train,
+Celecoxib,1,43,1.0,train,
+MEPROBAMATE,0,217,0.0,train,
+Tyrphostin 1,1,190,1.0,train,
+METAPROTERENOL SULFATE,0,309,0.0,train,
+NIMESULIDE,0,259,0.0,train,
+Juglone,1,105,1.0,train,
+Creatine,1,53,1.0,train,
+"1,2,3,4,6-Penta-O-Galloyl-B-D-Glucose",1,1,1.0,train,
+Cinnarizine,1,49,1.0,train,
+Epigallocatechin Gallate,1,80,1.0,train,
+?-Lipoic Acid,1,205,1.0,train,
+Butylated Hydroxytoluene,1,34,1.0,train,
+PIRPROFEN,0,263,0.0,train,
+Fisetin,1,91,1.0,train,
+CARBARIL,0,339,0.0,train,
+Cortexolone Maleate,1,52,1.0,train,
+Paclitaxel,0,345,0.0,train,
+TICRYNAFEN,0,264,0.0,train,
+LUMIRACOXIB,0,241,0.0,train,
+4-Phenylbutyrate,1,13,1.0,train,
+TEGASEROD,0,315,0.0,train,
+Fasudil,1,88,1.0,train,
+NEFAZODONE HYDROCHLORIDE,0,273,0.0,train,
+Quercetin,1,166,1.0,train,
+BIOALLETHRIN,0,328,0.0,train,
+Nabumetone,0,398,0.0,train,
+Myricetin,1,134,1.0,train,
+VINCAMINE,0,306,0.0,train,
+oxiconazole,0,388,0.0,train,
+PROPOXYPHENE NAPSYLATE,0,319,0.0,train,
+NOMIFENSINE MALEATE,0,243,0.0,train,
+Curcumin,1,54,1.0,train,
+Molidustat,0,363,0.0,train,
+Cis-(Z)-Flupenthixol Dihydrochloride,1,50,1.0,train,
+Simvastatin,1,174,1.0,train,
+Tyrosol,1,189,1.0,train,
+Aflatoxins,0,402,0.0,train,
+Trichostatin A,1,187,1.0,train,
+Resveratrol,1,169,1.0,train,
+D-Chiro-Inositol,1,58,1.0,train,
+Ciclopirox Olamine,1,48,1.0,train,
+PERMETHRIN,0,344,0.0,train,
+FIPEXIDE,0,235,0.0,train,
+BENOXAPROFEN,0,252,0.0,train,
+Ascorbic Acid,1,21,1.0,train,
+ROSIGLITAZONE,0,313,0.0,train,
+Polydatin,1,160,1.0,train,
+SULOCTIDIL,0,276,0.0,train,
+Tyrphostin 9,1,191,1.0,train,
+ASTEMIZOLE,0,293,0.0,train,
+PHENOTHRIN,0,343,0.0,train,
+FLUPIRTINE,0,257,0.0,train,
+ENCAINIDE HYDROCHLORIDE,0,308,0.0,train,
+Oleoylethanolamide,1,149,1.0,train,
+Metoprolol,1,130,1.0,train,
+Oxatomide,1,151,1.0,train,
+Butylone,0,359,0.0,train,
+Guanabenz Acetate,1,99,1.0,train,
+"1,2-Bis(2,4,6-tribromophenoxy)ethane",0,372,0.0,train,
+Everolimus,1,87,1.0,train,
+DANTHRON,0,330,0.0,train,
+MUZOLIMINE,0,214,0.0,train,
+Ly294002,1,121,1.0,train,
+Kynurenic Acid,0,404,0.0,train,
+Amperozide Hydrochloride,1,20,1.0,train,
+Trimethadione,1,188,1.0,train,
+Dihydroergotamine Methanesulfonate,1,71,1.0,train,
+Kaempferol,1,106,1.0,train,
+EXIFONE,0,270,0.0,train,
+Ferric nitrilotriacetate,0,348,0.0,train,
+Hexahydro-Sila-Difenidol Hydrochloride,1,102,1.0,train,
+Didanosine,1,70,,test,1.0
+ROFECOXIB,0,218,,test,0.0
+avermectin,0,385,,test,0.0
+Butein,1,33,,test,1.0
+Catechin,1,42,,test,1.0
+Eliprodil,1,77,,test,1.0
+N-acetyl-L-cysteine,1,137,,test,1.0
+"GLYCEROL, IODINATED",0,332,,test,0.0
+Phorbol,0,364,,test,0.0
+TOLRESTAT,0,265,,test,0.0
+Prostratin,0,365,,test,0.0
+Ellagic Acid,1,78,,test,1.0
+TILBROQUINOL,0,283,,test,0.0
+parthenin,0,387,,test,0.0
+Pd-98059,1,155,,test,1.0
+EBROTIDINE,0,255,,test,0.0
+Spermidine,1,177,,test,1.0
+Midazolam,0,352,,test,0.0
+"2,4-Dinitrophenol",1,9,,test,1.0
+Ursolic Acid,1,195,,test,1.0
+Cyclosporin A,1,55,,test,1.0
+Tolcapone,0,400,,test,0.0
+CLOMACRAN PHOSPHATE,0,253,,test,0.0
+TEGASEROD MALEATE,0,232,,test,0.0
+SERTINDOLE,0,320,,test,0.0
+TERODILINE HYDROCHLORIDE,0,305,,test,0.0
+Ethylene-Diamine-Tetra-Acetic Acid,1,84,,test,1.0
+SIBUTRAMINE HYDROCHLORIDE,0,209,,test,0.0
+Santokvin,1,172,,test,1.0
+"7-Cyclopentyl-5-(4-Phenoxy)Phenyl-7H-Pyrrolo[2,3-D]Pyrimidin-4-Ylamine",1,15,,test,1.0
+Minocycline,1,132,,test,1.0
+Genistein,1,94,,test,1.0
+"(R,R)-Cis-Diethyl Tetrahydro-2,8-Chrysenediol",1,0,,test,1.0
+Melatonin,1,124,,test,1.0
+TROVAFLOXACIN MESYLATE,0,250,,test,0.0
+Guayulin C,0,351,,test,0.0
+Cyproterone Acetate,1,56,,test,1.0
+FENSPIRIDE,0,312,,test,0.0
+Ethidium Bromide,1,82,,test,1.0
+ANAGESTONE ACETATE,0,324,,test,0.0
+CHLORMEZANONE,0,266,,test,0.0
+BENFLUOREX,0,317,,test,0.0
+Naphthazarin,1,140,,test,1.0
+Lamotrigine,1,114,,test,1.0
+Ha-1004,1,101,,test,1.0
+METHAPYRILENE FUMARATE,0,337,,test,0.0
+Beauveriolide I,1,25,,test,1.0
+Ethinamate,0,368,,test,0.0
+SB203580,1,173,,test,1.0
+Metformin,1,126,,test,1.0
+Nitroflurbiprofen,1,145,,test,1.0
+Aspirin,1,22,,test,1.0
+Lithocholic Acid,1,116,,test,1.0
+Chlorprothixene Hydrochloride,1,46,,test,1.0
+Aurantio-obtusin,0,393,,test,0.0
+CANRENONE,0,342,,test,0.0
+Dimethyl Formamide,1,73,,test,1.0
+Dimebolin,1,72,,test,1.0
+Carbonyl Cyanide M-Chlorophenyl Hydrazone,1,39,,test,1.0
+PROPOXYPHENE,0,297,,test,0.0
+Cysteamine,1,57,,test,1.0
+Rapamycin,1,168,,test,1.0
+Brl 50481,1,30,,test,1.0
+Papp,1,153,,test,1.0
+NITROFURAZONE,0,333,,test,0.0
+Tyrphostin Ag 1295,1,192,,test,1.0
+Acridine Orange,0,401,,test,0.0
+Indirubin,1,104,,test,1.0
+BTCP Hydrochloride,1,31,,test,1.0
+taiwanin E,0,381,,test,0.0
+BROMFENAC SODIUM,0,239,,test,0.0
+FEPRAZONE,0,336,,test,0.0
+Doxycycline,1,76,,test,1.0
+Su 4312,1,180,,test,1.0
+Nebivolol,1,141,,test,1.0
+2-(2-Aminophenyl)-1H-Benzimidazole,1,5,,test,1.0
+Chloramphenicol,1,45,,test,1.0
+Ferulsinaic Acid,1,90,,test,1.0
+TROGLITAZONE,0,249,,test,0.0
+Diethylstilbestrol,0,403,,test,0.0
+afuresertib,0,374,,test,0.0
